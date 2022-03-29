@@ -1,5 +1,7 @@
 # Desafio-Seazone
-Desafio de Data Analytics para a Seazone.
+Seazone Challenge Junior Data Scientist
+
+--------------------------------------------------------------------------
 
 Seazone Report: My complete analysis.
 
